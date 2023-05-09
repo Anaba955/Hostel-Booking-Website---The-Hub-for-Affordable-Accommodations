@@ -1,0 +1,17 @@
+.head1{
+    color:blue;
+    padding-left: 400px;
+   
+}
+#hd{
+    color:red;
+}
+img{
+    padding-left: 200px;
+    width:50vw;
+    height:50vh;
+}
+p{
+    font-size:50px;
+    background-color: aqua;
+}
